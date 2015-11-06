@@ -19,7 +19,13 @@ h1 {
   /*^ this is how to have something hidden when you load*/
 }
 
+.playlist {
+  margin-top: 300px;
+  }
 
+li {
+  display: inline-block;
+}
 
 button {
   display: block;
